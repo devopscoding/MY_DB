@@ -2,21 +2,21 @@
     {
         "id": 1,
         "name": "Hello Word",
-        "link": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/"
     },
     {
         "id": 2,
         "name": "Pavan",
-        "link": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/"
     },
     {
         "id": 3,
         "name": "Tejas",
-        "link": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/"
     },
      {
         "id": 4,
         "name": "Ram",
-        "link": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/"
     }
 ]
