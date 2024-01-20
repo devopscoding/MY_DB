@@ -3,5 +3,10 @@
         "id": 1,
         "name": "Hello Word",
         "link": "https://infotechnologyxyz.blogspot.com/"
+    },
+    {
+        "id": 2,
+        "name": "Pavan",
+        "link": "https://infotechnologyxyz.blogspot.com/"
     }
 ]
