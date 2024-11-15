@@ -2,21 +2,13 @@
     {
         "id": 1,
         "name": "Hello Word",
-        "url": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/",
+        "category": "Music"
     },
     {
         "id": 2,
         "name": "Pavan",
-        "url": "https://infotechnologyxyz.blogspot.com/"
-    },
-    {
-        "id": 3,
-        "name": "Tejas",
-        "url": "https://infotechnologyxyz.blogspot.com/"
-    },
-     {
-        "id": 4,
-        "name": "Ram",
-        "url": "https://infotechnologyxyz.blogspot.com/"
+        "url": "https://infotechnologyxyz.blogspot.com/",
+        "category": "Music"
     }
 ]
