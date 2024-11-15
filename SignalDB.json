@@ -1,26 +1,68 @@
 [
     {
         "id": 1,
-        "name": "Hello Word",
-        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
-        "category": "Music"
+        "name": "Trading Community",
+        "url": "https://signal.group/#CjQKIB2ZV6rk6n8KL0OfmFEUHdlBxcH7o0s3DChKShWXJn_9EhAisVmtxzNUt1Nat--_4Rql",
+        "category": "Trading"
     },
     {
         "id": 2,
-        "name": "Pavan",
-        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
-        "category": "Music"
+        "name": "Meta Trader",
+        "url": "https://signal.group/#CjQKILh-IPR0cNdBtwjh1kuBI-CCW5SWb5MCqAbtT5inbpk8EhDqbNFOV0dQKzValT6MS4qm",
+        "category": "Trading"
     },
     {
         "id": 3,
-        "name": "Signal",
-        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
-        "category": "Music"
+        "name": "Forex Market",
+        "url": "https://signal.group/#CjQKIH8SnmgiV0L-4s5-xV7f6DZRGR9AWGHfN1_YJ-Qc9JrjEhD17upfTQsevKBDkuxdyUGB",
+        "category": "Trading"
     },
     {
         "id": 4,
-        "name": "Harsal",
-        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
-        "category": "Music"
+        "name": "UK Jobs",
+        "url": "https://signal.art/addstickers/#pack_id=f5480aa32dddfe2390892893daa51aae&pack_key=ff46348318c1320e99d00fe96e5a50ba78a18a084c5ab8d87ff67dda1fcad419",
+        "category": "Job"
+    },
+    {
+        "id": 5,
+        "name": "Tesla Power",
+        "url": "https://signal.group/#CjQKIJ7jyzBqpOo4Jk5Fdu7UeqqZBBUUzUC8zl3BC5litnISEhBMPKP19sog5_lOtXmShyHo",
+        "category": "Job"
+    },
+    {
+        "id": 6,
+        "name": "Google News",
+        "url": "https://signal.group/#CjQKINVAbGr7ZzH-xgo1g5caNAikMHyk5bRQ5fGUW9jspkMoEhDJnGZxiEk5FRSWG4erSoDV",
+        "category": "News"
+    },
+    {
+        "id": 7,
+        "name": "Breaking News",
+        "url": "https://signal.group/#CjQKIHWC_d53jHTfeheiYH3YP1yqv5Qn0JCfoOvzPdFbKHfAEhBjh5Cf2YyCj3TmBeqyEo2e",
+        "category": "News"
+    },
+    {
+        "id": 8,
+        "name": "Students Hub",
+        "url": "https://signal.group/#CjQKIHxhPC67D71wy6UT7o2SbSg-PARXmmsycSjsHqPiV5qCEhDHtk3oLNaZC6_Wf6OabC8X",
+        "category": "News"
+    },
+    {
+        "id": 9,
+        "name": "100 Players",
+        "url": "https://signal.group/#CjQKIBj5fSRfBEqbYpy5xGmurDf-eKcUDX7eFJz4JdXZ9CJ3EhBYR1Q0tPtcN5rjvO9WEyxW",
+        "category": "Game"
+    },
+    {
+        "id": 10,
+        "name": "PUBG Mobile",
+        "url": "https://signal.group/#CjQKIFjS-2abKuknpWpxXI0h5mVPwT2Y5b5yTwt038SFEPXkEhA90aOQa4vCKsxZ_8YEf1mP",
+        "category": "Game"
+    },
+    {
+        "id": 11,
+        "name": "UC Store",
+        "url": "https://signal.group/#CjQKIDBg1gin9Ich4st86_eQ4m2MOKDvn4tGGmqiwHu1Xi4eEhCq2nLyUoKI3lL1z-xhZ3Fe",
+        "category": "Game"
     }
 ]
