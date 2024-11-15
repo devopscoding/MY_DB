@@ -2,13 +2,25 @@
     {
         "id": 1,
         "name": "Hello Word",
-        "url": "https://infotechnologyxyz.blogspot.com/",
+        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
         "category": "Music"
     },
     {
         "id": 2,
         "name": "Pavan",
-        "url": "https://infotechnologyxyz.blogspot.com/",
+        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
+        "category": "Music"
+    },
+    {
+        "id": 3,
+        "name": "Signal",
+        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
+        "category": "Music"
+    },
+    {
+        "id": 4,
+        "name": "Harsal",
+        "url": "https://signal.group/#CjQKIKM4L5VUsATaN3r_4hrfLp4DDZYwJovU9S8UBR_ebOsNEhDG-48d2QHvvhzNCm8gJo-t",
         "category": "Music"
     }
 ]
